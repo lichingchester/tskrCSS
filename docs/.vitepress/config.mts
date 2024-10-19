@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "tempcss",
   description: "A template CSS for all responsive re-usable layouts.",
+
+  base: '/repo/',
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
