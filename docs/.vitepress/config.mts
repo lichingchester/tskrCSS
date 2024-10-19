@@ -5,7 +5,7 @@ export default defineConfig({
   title: "tempcss",
   description: "A template CSS for all responsive re-usable layouts.",
 
-  base: '/repo/',
+  base: '/tempcss/',
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
