@@ -21,6 +21,18 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+      },
+      {
+        text: 'Landing',
+        items: [
+          { text: 'No. 1', link: '/landing/1' },
+        ]
+      },
+      {
+        text: 'Two Column',
+        items: [
+          { text: 'Two Column 1', link: '/two-column/1' },
+        ]
       }
     ],
 

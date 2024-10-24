@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["tempcss", "vitepress"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "vue.server.includeLanguages": ["vue", "markdown"]
+}
