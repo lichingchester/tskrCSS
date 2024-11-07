@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "tempcss"
-  text: "A template CSS for all responsive re-usable layouts."
+  name: "tskrCSS"
+  text: "A tasukaru template CSS for all responsive re-usable layouts."
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
