@@ -4,21 +4,21 @@ layout: home
 
 hero:
   name: "tskrCSS"
-  text: "A tasukaru template CSS for all responsive re-usable layouts."
-  tagline: My great project tagline
+  text: "A tasukaru template for all responsive re-usable layouts."
+  tagline: Still baking in the oven, one pixel at a time. Stay tuned!
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Collections
+      link: /collections/1
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github
+      link: https://github.com/lichingchester/tskrCSS
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 🚀&nbsp; It's template, not library
+    details: A collection of re-usable template for copy and paste into your projects.
+  - title: ❤️&nbsp; Responsive
+    details: Pre-built responsive layouts that adapt seamlessly across all modern devices.
+  - title: 🎨&nbsp; tcss-* Classes
+    details: The specific class name to avoid conflicts with other CSS libraries.
 ---

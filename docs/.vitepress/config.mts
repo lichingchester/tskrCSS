@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "tskrCSS",
-  description: "A tasukaru template CSS for all responsive re-usable layouts.",
+  description: "A tasukaru template for all responsive re-usable layouts.",
 
   base: "/tskrCSS/",
 
@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Collections", link: "/collections/1" },
+      { text: "0.1", link: "#" },
     ],
 
     sidebar: [
@@ -35,6 +36,10 @@ export default defineConfig({
         'Released under the <a href="https://github.com/lichingchester/tskrCSS/blob/main/LICENSE">MIT License.</a>',
       copyright:
         'Copyright © 2024-present <a href="https://github.com/lichingchester">lichingchester</a>',
+    },
+
+    search: {
+      provider: "local",
     },
   },
 });
