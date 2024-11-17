@@ -12,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Collections", link: "/collections/1" },
-      { text: "0.1", link: "#" },
+      { text: "0.1.2", link: "#" },
     ],
 
     sidebar: [
