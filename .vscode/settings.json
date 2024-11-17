@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["tasukaru", "tcss", "tempcss", "tskr", "vitepress"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "vue.server.includeLanguages": ["vue", "markdown"]
+}

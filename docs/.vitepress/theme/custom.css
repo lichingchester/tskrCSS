@@ -1,0 +1,4 @@
+.vp-doc [class*="language-"] pre {
+  max-height: 50vh;
+  overflow: auto;
+}
